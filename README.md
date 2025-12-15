@@ -3,7 +3,7 @@
 An AI-powered eye disease assistant that analyzes Retinal OCT images and provides clear, structured explanations using a medical knowledge-based chatbot.
 This project is designed for educational and assistive purposes only.
 
-**🔍 What This Bot Does**
+**🔍 What This Bot Does** 
 
 Accepts Retinal OCT images uploaded by the user
 
@@ -27,6 +27,7 @@ Displays both the uploaded image and the chatbot response in a single interface
 
 **🛠️ Technologies Used**
 
+
 TensorFlow / Keras – model inference
 
 Flask – backend server
@@ -40,6 +41,8 @@ Gemini API – language model
 HTML / CSS / JavaScript – chatbot interface
 
 **📁 Project Structure**
+
+
 Eye_Disease_Chatbot/
 │
 ├── app.py                  # Flask application
