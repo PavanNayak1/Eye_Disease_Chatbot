@@ -1,4 +1,4 @@
-#🧿 Eye Disease Assistant – OCT Image & Medical Chatbot
+# 🧿  Eye Disease Assistant – OCT Image & Medical Chatbot
 
 An AI-powered eye disease assistant that analyzes Retinal OCT images and provides clear, structured explanations using a medical knowledge-based chatbot.
 This project is designed for educational and assistive purposes only.
